@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #000000;
+  background-size: cover;
+  height: 130vh;
+  width: 70%;
+  margin: 30px;
+}
